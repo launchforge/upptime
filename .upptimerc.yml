@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: App Front-end
     url: https://app.launchforge.co
-  - name: App Services
-    url: https://services.launchforge.co/health
+  - name: App API
+    url: https://services.launchforge.co/api/v1/health
   - name: Home, Docs, and Blog
     url: https://launchforge.co
 
