@@ -7,7 +7,9 @@ sites:
     url: https://app.launchforge.co
   - name: App API
     url: https://services.launchforge.co/api/v1/health
-  - name: Home, Docs, and Blog
+  - name: Authentication Service
+    url: https://services.launchforge.co/auth/health/alive
+  - name: Homepage & Docs
     url: https://launchforge.co
 
 status-website:
