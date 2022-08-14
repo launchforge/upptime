@@ -15,6 +15,12 @@ sites:
   - name: Services - Authentication
     url: https://services.launchforge.co/auth/health/alive
     showAverageResponseTime: false
+  - name: Services - Content Delivery Network
+    url: https://launchforge-prod.s3.us-west-002.backblazeb2.com/
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
