@@ -3,14 +3,18 @@ owner: launchforge # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: App Front-end
-    url: https://app.launchforge.co
-  - name: App API
-    url: https://services.launchforge.co/api/v1/health
-  - name: Authentication Service
-    url: https://services.launchforge.co/auth/health/alive
-  - name: Homepage & Docs
+  - name: Web - Homepage
     url: https://launchforge.co
+    showAverageResponseTime: false
+  - name: Web - App
+    url: https://app.launchforge.co
+    showAverageResponseTime: false
+  - name: Services - API
+    url: https://services.launchforge.co/api/v1/health
+    showAverageResponseTime: false
+  - name: Services - Authentication
+    url: https://services.launchforge.co/auth/health/alive
+    showAverageResponseTime: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,8 +23,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Launchforge
-  introTitle: "Launchforge Status"
-  introMessage: Reporting the status of Launchforge websites and services, hosted on Github.
+  introTitle: "**Launchforge** Service Status"
+  introMessage: Reporting the status of Launchforge websites and services, hosted on Github. If anything goes down, you'll know about it here.
   navbar:
     - title: Status
       href: /
