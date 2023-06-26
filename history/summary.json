@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-api",
     "status": "up",
-    "uptime": "85.29%",
+    "uptime": "85.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.29%",
+    "uptimeYear": "85.30%",
     "time": 90,
     "timeDay": 39,
     "timeWeek": 58,
@@ -108,11 +108,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-authentication",
     "status": "up",
-    "uptime": "85.29%",
+    "uptime": "85.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.29%",
+    "uptimeYear": "85.30%",
     "time": 23,
     "timeDay": 7,
     "timeWeek": 12,
@@ -174,9 +174,9 @@
     "url": "https://launchforge-prod.s3.us-west-002.backblazeb2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/launchforge-prod.s3.us-west-002.backblazeb2.com.ico",
     "slug": "services-content-delivery-network",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,6 +185,8 @@
     "timeWeek": 270,
     "timeMonth": 460,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-26": 0
+    }
   }
 ]
