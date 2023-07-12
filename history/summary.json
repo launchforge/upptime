@@ -174,19 +174,19 @@
     "url": "https://launchforge-prod.s3.us-west-002.backblazeb2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/launchforge-prod.s3.us-west-002.backblazeb2.com.ico",
     "slug": "services-content-delivery-network",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 168,
-    "timeWeek": 200,
-    "timeMonth": 214,
+    "timeDay": 141,
+    "timeWeek": 189,
+    "timeMonth": 211,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-07-12": 0
+      "2023-07-12": 6
     }
   }
 ]
