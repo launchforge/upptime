@@ -6,9 +6,9 @@
     "slug": "web-homepage",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 180,
     "timeDay": 152,
@@ -16,7 +16,7 @@
     "timeMonth": 139,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.launchforge.co",
     "icon": "https://icons.duckduckgo.com/ip3/app.launchforge.co.ico",
     "slug": "web-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 133,
-    "timeWeek": 120,
-    "timeMonth": 118,
+    "timeDay": 111,
+    "timeWeek": 116,
+    "timeMonth": 117,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 6
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://services.launchforge.co/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-api",
-    "status": "down",
+    "status": "up",
     "uptime": "86.58%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "86.58%",
     "time": 88,
-    "timeDay": 97,
-    "timeWeek": 72,
-    "timeMonth": 74,
+    "timeDay": 95,
+    "timeWeek": 75,
+    "timeMonth": 75,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-07-26": 0,
+      "2023-07-26": 5,
       "2022-10-18": 256,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
