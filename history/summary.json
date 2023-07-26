@@ -4,19 +4,19 @@
     "url": "https://launchforge.co",
     "icon": "https://icons.duckduckgo.com/ip3/launchforge.co.ico",
     "slug": "web-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 152,
+    "time": 179,
+    "timeDay": 148,
     "timeWeek": 140,
     "timeMonth": 139,
-    "timeYear": 180,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-07-26": 6
+      "2023-07-26": 12
     }
   },
   {
@@ -26,18 +26,16 @@
     "slug": "web-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
     "timeDay": 111,
     "timeWeek": 116,
     "timeMonth": 117,
     "timeYear": 136,
-    "dailyMinutesDown": {
-      "2023-07-26": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Services - API",
@@ -46,9 +44,9 @@
     "slug": "services-api",
     "status": "up",
     "uptime": "86.58%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "86.58%",
     "time": 88,
     "timeDay": 95,
@@ -56,7 +54,6 @@
     "timeMonth": 75,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-07-26": 5,
       "2022-10-18": 256,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
