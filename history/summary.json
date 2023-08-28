@@ -4,19 +4,19 @@
     "url": "https://launchforge.co",
     "icon": "https://icons.duckduckgo.com/ip3/launchforge.co.ico",
     "slug": "web-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 1318,
-    "timeWeek": 421,
+    "timeDay": 952,
+    "timeWeek": 398,
     "timeMonth": 210,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2023-08-28": 0
+      "2023-08-28": 6
     }
   },
   {
