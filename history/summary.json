@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 134,
-    "timeWeek": 119,
-    "timeMonth": 207,
+    "timeDay": 165,
+    "timeWeek": 129,
+    "timeMonth": 209,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 98,
-    "timeWeek": 92,
-    "timeMonth": 111,
+    "timeDay": 203,
+    "timeWeek": 109,
+    "timeMonth": 114,
     "timeYear": 127,
     "dailyMinutesDown": {}
   },
@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-api",
     "status": "up",
-    "uptime": "88.56%",
+    "uptime": "88.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.55%",
+    "uptimeYear": "93.66%",
     "time": 85,
-    "timeDay": 72,
-    "timeWeek": 50,
-    "timeMonth": 64,
+    "timeDay": 109,
+    "timeWeek": 57,
+    "timeMonth": 65,
     "timeYear": 74,
     "dailyMinutesDown": {
       "2022-10-18": 256,
@@ -74,8 +74,7 @@
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
-      "2022-09-26": 1440,
-      "2022-09-25": 1440
+      "2022-09-26": 1440
     }
   },
   {
@@ -84,14 +83,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-authentication",
     "status": "up",
-    "uptime": "88.56%",
+    "uptime": "88.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.55%",
+    "uptimeYear": "93.66%",
     "time": 21,
-    "timeDay": 7,
-    "timeWeek": 8,
+    "timeDay": 16,
+    "timeWeek": 9,
     "timeMonth": 12,
     "timeYear": 15,
     "dailyMinutesDown": {
@@ -117,8 +116,7 @@
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
-      "2022-09-26": 1440,
-      "2022-09-25": 1440
+      "2022-09-26": 1440
     }
   },
   {
@@ -127,18 +125,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/launchforge-prod.s3.us-west-002.backblazeb2.com.ico",
     "slug": "services-content-delivery-network",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 261,
-    "timeDay": 262,
-    "timeWeek": 170,
-    "timeMonth": 223,
+    "timeDay": 208,
+    "timeWeek": 179,
+    "timeMonth": 221,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2023-09-24": 6,
       "2023-08-03": 27
     }
   }
