@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 115,
-    "timeWeek": 122,
+    "timeDay": 172,
+    "timeWeek": 133,
     "timeMonth": 133,
     "timeYear": 181,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 83,
-    "timeWeek": 115,
-    "timeMonth": 110,
+    "timeDay": 178,
+    "timeWeek": 130,
+    "timeMonth": 111,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
@@ -41,14 +41,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-api",
     "status": "up",
-    "uptime": "88.69%",
+    "uptime": "88.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.76%",
+    "uptimeYear": "95.03%",
     "time": 84,
-    "timeDay": 42,
-    "timeWeek": 63,
+    "timeDay": 92,
+    "timeWeek": 71,
     "timeMonth": 61,
     "timeYear": 74,
     "dailyMinutesDown": {
@@ -69,8 +69,7 @@
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
-      "2022-10-01": 1440,
-      "2022-09-30": 1440
+      "2022-10-01": 1440
     }
   },
   {
@@ -79,15 +78,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-authentication",
     "status": "up",
-    "uptime": "88.69%",
+    "uptime": "88.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.76%",
+    "uptimeYear": "95.03%",
     "time": 20,
-    "timeDay": 8,
-    "timeWeek": 11,
-    "timeMonth": 11,
+    "timeDay": 23,
+    "timeWeek": 13,
+    "timeMonth": 12,
     "timeYear": 15,
     "dailyMinutesDown": {
       "2022-10-18": 256,
@@ -107,8 +106,7 @@
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
-      "2022-10-01": 1440,
-      "2022-09-30": 1440
+      "2022-10-01": 1440
     }
   },
   {
@@ -123,8 +121,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 260,
-    "timeDay": 53,
-    "timeWeek": 206,
+    "timeDay": 213,
+    "timeWeek": 200,
     "timeMonth": 211,
     "timeYear": 267,
     "dailyMinutesDown": {
