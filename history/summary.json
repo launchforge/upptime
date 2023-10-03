@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 163,
-    "timeWeek": 138,
+    "timeDay": 113,
+    "timeWeek": 141,
     "timeMonth": 138,
     "timeYear": 181,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 154,
-    "timeWeek": 128,
-    "timeMonth": 113,
+    "timeDay": 91,
+    "timeWeek": 131,
+    "timeMonth": 112,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
@@ -41,14 +41,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-api",
     "status": "up",
-    "uptime": "88.77%",
+    "uptime": "88.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.58%",
+    "uptimeYear": "95.86%",
     "time": 84,
-    "timeDay": 94,
-    "timeWeek": 68,
+    "timeDay": 50,
+    "timeWeek": 70,
     "timeMonth": 62,
     "timeYear": 74,
     "dailyMinutesDown": {
@@ -66,8 +66,7 @@
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
-      "2022-10-04": 1440,
-      "2022-10-03": 1440
+      "2022-10-04": 1440
     }
   },
   {
@@ -76,14 +75,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-authentication",
     "status": "up",
-    "uptime": "88.77%",
+    "uptime": "88.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.58%",
+    "uptimeYear": "95.86%",
     "time": 20,
-    "timeDay": 21,
-    "timeWeek": 16,
+    "timeDay": 6,
+    "timeWeek": 15,
     "timeMonth": 12,
     "timeYear": 15,
     "dailyMinutesDown": {
@@ -101,8 +100,7 @@
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
-      "2022-10-04": 1440,
-      "2022-10-03": 1440
+      "2022-10-04": 1440
     }
   },
   {
@@ -117,10 +115,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 259,
-    "timeDay": 209,
-    "timeWeek": 188,
-    "timeMonth": 214,
-    "timeYear": 267,
+    "timeDay": 233,
+    "timeWeek": 189,
+    "timeMonth": 212,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2023-08-03": 27
     }
