@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 143,
-    "timeWeek": 139,
-    "timeMonth": 140,
-    "timeYear": 180,
+    "timeDay": 159,
+    "timeWeek": 138,
+    "timeMonth": 137,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 109,
-    "timeWeek": 118,
-    "timeMonth": 115,
-    "timeYear": 125,
+    "timeDay": 143,
+    "timeWeek": 119,
+    "timeMonth": 114,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-api",
     "status": "up",
-    "uptime": "88.90%",
+    "uptime": "88.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "97.23%",
     "time": 84,
-    "timeDay": 61,
-    "timeWeek": 66,
-    "timeMonth": 63,
+    "timeDay": 95,
+    "timeWeek": 70,
+    "timeMonth": 64,
     "timeYear": 74,
     "dailyMinutesDown": {
       "2022-10-18": 256,
@@ -61,8 +61,7 @@
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
-      "2022-10-09": 1440,
-      "2022-10-08": 1440
+      "2022-10-09": 1440
     }
   },
   {
@@ -71,14 +70,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-authentication",
     "status": "up",
-    "uptime": "88.90%",
+    "uptime": "88.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "97.23%",
     "time": 20,
-    "timeDay": 15,
-    "timeWeek": 15,
+    "timeDay": 23,
+    "timeWeek": 16,
     "timeMonth": 13,
     "timeYear": 15,
     "dailyMinutesDown": {
@@ -91,8 +90,7 @@
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
-      "2022-10-09": 1440,
-      "2022-10-08": 1440
+      "2022-10-09": 1440
     }
   },
   {
@@ -107,9 +105,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 264,
-    "timeDay": 167,
-    "timeWeek": 442,
-    "timeMonth": 291,
+    "timeDay": 246,
+    "timeWeek": 445,
+    "timeMonth": 296,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2023-10-05": 22,
