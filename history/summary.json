@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 96,
-    "timeWeek": 132,
-    "timeMonth": 137,
+    "timeDay": 122,
+    "timeWeek": 130,
+    "timeMonth": 132,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 89,
-    "timeWeek": 124,
+    "timeDay": 117,
+    "timeWeek": 123,
     "timeMonth": 118,
     "timeYear": 123,
     "dailyMinutesDown": {}
@@ -41,20 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-api",
     "status": "up",
-    "uptime": "89.11%",
+    "uptime": "89.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.42%",
     "time": 84,
-    "timeDay": 46,
-    "timeWeek": 60,
+    "timeDay": 80,
+    "timeWeek": 63,
     "timeMonth": 63,
     "timeYear": 74,
     "dailyMinutesDown": {
       "2022-10-18": 256,
-      "2022-10-17": 1440,
-      "2022-10-16": 1440
+      "2022-10-17": 1440
     }
   },
   {
@@ -63,20 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.launchforge.co.ico",
     "slug": "services-authentication",
     "status": "up",
-    "uptime": "89.11%",
+    "uptime": "89.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.42%",
     "time": 20,
-    "timeDay": 8,
+    "timeDay": 13,
     "timeWeek": 13,
     "timeMonth": 13,
     "timeYear": 15,
     "dailyMinutesDown": {
       "2022-10-18": 256,
-      "2022-10-17": 1440,
-      "2022-10-16": 1440
+      "2022-10-17": 1440
     }
   },
   {
@@ -91,9 +89,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 264,
-    "timeDay": 260,
-    "timeWeek": 250,
-    "timeMonth": 281,
+    "timeDay": 286,
+    "timeWeek": 275,
+    "timeMonth": 280,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2023-10-05": 22,
