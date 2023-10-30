@@ -1,7 +1,7 @@
 url: https://app.launchforge.co
-status: up
-code: 200
-responseTime: 109
-lastUpdated: 2023-10-29T23:12:33.544Z
+status: down
+code: 500
+responseTime: 162
+lastUpdated: 2023-10-30T20:00:14.058Z
 startTime: 2022-08-14T05:23:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
