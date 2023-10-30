@@ -4,19 +4,19 @@
     "url": "https://launchforge.co",
     "icon": "https://icons.duckduckgo.com/ip3/launchforge.co.ico",
     "slug": "web-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 141,
-    "timeWeek": 140,
+    "timeDay": 137,
+    "timeWeek": 139,
     "timeMonth": 137,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 23
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.launchforge.co",
     "icon": "https://icons.duckduckgo.com/ip3/app.launchforge.co.ico",
     "slug": "web-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 136,
-    "timeWeek": 122,
-    "timeMonth": 119,
-    "timeYear": 122,
+    "timeDay": 118,
+    "timeWeek": 117,
+    "timeMonth": 118,
+    "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 23
     }
   },
   {
